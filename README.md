@@ -29,3 +29,4 @@ All the time series were converted to images using matplotlib.
 2. Build a way to cluster similar images together in an unsupervised fashion. 
 3. Find a way to compare unequal time series. 
 4. Find a way to reduce the dimensionality of a time series. 
+5. Smoothen Time Series
