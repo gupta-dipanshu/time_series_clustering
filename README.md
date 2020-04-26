@@ -8,8 +8,8 @@ To leverage the power of Computer Vision to creat clusters of time series.
 
 Today, deep learning can do some amazing tasks that traditional machine learning cannot. Deep learning has two major components: 
 
-	- Computer Vision (CV)
-	- Natural Language Processing (NLP)
+- Computer Vision (CV)
+- Natural Language Processing (NLP)
 
 Since we have many optimised algorithms in the domain of Computer Vision, one must wonder if it is possible to translate the task of clustering time series into a graphical one, as opposed to using numerical methods like k-Means clustering. An attempt was made to do so numerically by one of the authors of this repo. It was presented in the form a Meetup presentation and it can be found at https://github.com/Rocketloop/appliedml-talk-clustering-time-series. 
 
